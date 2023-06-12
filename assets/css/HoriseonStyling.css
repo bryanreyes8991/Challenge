@@ -1,3 +1,6 @@
+/*Reorganized selectors to follow semantic structure of HTML*/
+
+
 * {
     box-sizing: border-box;
     padding: 0;
